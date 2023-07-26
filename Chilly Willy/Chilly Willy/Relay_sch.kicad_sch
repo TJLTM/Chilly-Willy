@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 77f69e23-59eb-4cea-b86e-155c6a160873)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "Relay_Contact 1" (shape input) (at 88.9 58.42 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 94c7c880-46c2-4b03-9f4e-4c602644f28a)
+  )
+  (hierarchical_label "TTL_Vin" (shape input) (at 58.42 53.34 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 962621ba-0bc1-48f2-be41-5ddccb151c99)
+  )
+  (hierarchical_label "GND" (shape input) (at 59.69 71.12 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b158a00e-f7bc-4227-a05d-28c7b4c34ebb)
+  )
+  (hierarchical_label "RelayGPIO" (shape input) (at 58.42 58.42 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid d2a93c0a-7ba1-4816-ac8f-b911acccfdb9)
+  )
+  (hierarchical_label "Relay_Contact 2" (shape input) (at 88.9 71.12 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid f3771296-690c-4142-8a34-0e7c9f8ed0f6)
+  )
+)

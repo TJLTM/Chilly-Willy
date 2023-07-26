@@ -1,0 +1,10 @@
+R - 24AC Power
+W - Heat
+Y - Cool
+G - Fan
+C - 24AC Common
+O - RV on In Cool
+B - RV on In Heat
+Y2 - 2nd Stage Cool
+W2 - 2nd Stage Heat
+E - Emergency Heat
