@@ -507,7 +507,7 @@
     (uuid ff9cee8d-3543-46a5-9d0e-63b9592f0276)
   )
 
-  (hierarchical_label "Vout" (shape input) (at 167.64 90.17 180) (fields_autoplaced)
+  (hierarchical_label "Vdd" (shape input) (at 167.64 90.17 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 05069d73-950d-4c9e-a6a0-6a4cb44501a4)
   )

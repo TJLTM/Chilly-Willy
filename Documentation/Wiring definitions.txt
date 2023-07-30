@@ -1,4 +1,4 @@
-R - 24AC Power
+R - 24AC Power --- Can be Split in RC for Cool and RH for Heat
 W - Heat
 Y - Cool
 G - Fan
